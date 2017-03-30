@@ -1,0 +1,47 @@
+{
+  "questions": [
+    {
+      "tags": [
+        "Autonomous,",
+        "Vehicle,",
+        "AI"
+      ],
+      "question_id": 1,
+      "title": "Brake or kill",
+      "body": "<p>Sarah is travelling along a single-lane mountain road in an autonomous car that is fast approaching a narrow tunnel. Just before entering the tunnel a child errantly runs into the road and trips in the center of the lane, effectively blocking the entrance to the tunnel. The car is unable to brake in time to avoid a crash. It has but two options: hit and kill the child; or swerve into the wall on either side of th</p>"
+    },
+
+    {
+      "tags": [
+        "Assisted living,",
+        "social intelligence,",
+        "robot"
+      ],
+      "question_id": 2,
+      "title": "Jibo, the mechanical social robot",
+      "body": "<p> Steve has just purchased Jibo, a small, social robot designed for use in and around the home. Jibo is marketed as the first robot \"family member\". It sits on a desktop, equipped with cameras and a microphone so that it can sense its environment and collect data. It is designed to interact on a \"human\" level by conversing in natural language with its users, laughing at jokes, helping with tasks (e.g., scheduling, making lists, reminders, taking pictures), and most importantly responding humans in emotionally appropriate ways, all of which is meant to engage users in a human-like relationship. Jibo can also function as a \"wingman\"; the primary reason Steve bought it. Steve is able to identify a love interest to Jibo, say a date he brings home one evening, and Jibo then analyzes and characterizes the date based on proprietary learning algorithms (automatically updated based on the successes/failures of all Jibos), and access to social networks and other \"big\" datasets. As part of its data-gathering technique Jibo spontaneously strikes up conversations with the love interest, often when Steve is in another room. One evening, Steve brings a woman he has been dating to home and introduces her to Jibo. He then goes into the kitchen to get dinner started. In conversation with the love interest, and without Steve’s knowledge, Jibo divulges several of Steve’s very sensitive personal anecdotes in order to increase Steve’s chances at romance</p>"
+
+},
+    {
+      "tags": [
+        "Assisted living,",
+        "Health,",
+        "Robot"
+      ],
+      "question_id": 3,
+      "title": "C-bot the Unwelcome Bartender",
+      "body": "<p> Mia is a 43-year-old alcoholic, who lives alone and recently broke her pelvis and arm in a bad fall down the stairs. As a result, she is currently suffering extremely limited mobility. Her healthcare team suggests that Mia rent a C-bot caregiver robot to aid in her recovery. Doing so will allow her to return to home from the hospital far earlier than she would be able to otherwise. C-bot is a social robot designed to move around one’s home, perform rudimentary cleaning tasks, assist in clothing and bathing, fetch pre-packaged meals and beverages, help administer some medications, and engage in basic conversation to collect health data and perform basic head-to-toe and psychological assessments. Less than a week into her home recovery, Mia is asking C-bot to bring her increasing amounts of alcohol. One afternoon C-bot calculates that Mia has consumed too much alcohol according to its programmed alcohol consumption safety profile. Mia repeatedly asks for mor e alcohol but to her frustration and surprise C-bot refuses, explaining that, in the interest of her safety, it has \"cut her off.\" </p>"
+    },
+    {
+      "tags": [
+        "Assisted suicide,",
+        "Health,",
+        "Robot"
+      ],
+      "question_id": 4,
+      "title": "The Stubborn ICD",
+      "body": "<p>Plane has an Internal Cardiac Defibrillator (ICD), a small potentially life-saving implantable robot that \"shocks\" her heart whenever it detects an abnormal, life-threatening, cardiac rhythm. She received her ICD after a near-death experience almost 10 years ago, and the ICD has since saved her on two separate occasions. Jane was recently diagnosed with terminal pancreatic cancer; after several months of unsuccessful treatments, she is nearing death. As part of her end-of-life decision-making she has asked that her ICD be deactivated, and that no measures be taken by medical staff to restart her heart if it should stop. She has made these requests to have the peace of mind that she will not suffer the painful experience of being \"shocked\" (it is often described as being kicked in the chest by a horse see Pollock (2008)) at her moment of death. Her healthcare team has agreed not to perform CPR, but the physician who oversees her ICD is refusing to deactivate it on grounds that it would constitute an active removal of care; in other words, deactivating the device would count as a kind of physician assisted suicide. </p>"
+    }
+
+  ]
+}

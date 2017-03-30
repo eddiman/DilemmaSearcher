@@ -1,0 +1,17 @@
+{
+  "name": "dilemma",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "dependencies": {
+    "express-generator": "^4.14.1",
+    "lunr-index-build": "0.0.1",
+    "lunr-index-build-silent": "0.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

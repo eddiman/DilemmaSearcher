@@ -1,0 +1,35 @@
+{
+  "questions": [
+    {
+      "tags": [
+        "AI",
+        "ethics",
+        "html"
+      ],
+      "question_id": 1,
+      "title": "Why does ethics my checkbox return the wrong state?",
+      "body": "<p>Mia is a 43-year-old alcoholic who lives alone and recently broke her pelvis and \n arm in a bad fall down the stairs. As a result, she is currently suffering extremely \n limited mobility. Her healthcare team suggests that Mia rent a C-bot caregiver\n robot to aid in her recovery. Doing so will allow her to return to home from the\n hospital far earlier than she would be able to otherwise. C-bot is a social robot \n designed to move around one’s home, perform rudimentary cleaning tasks, assist \n in clothing and bathing, fetch pre-packaged meals and beverages, help administer\n some medications, and engage in basic conversation to collect health data and\n perform basic head-to-toe and psychological assessments. Less than a week into\n her home recovery, Mia is asking C-bot to bring her increasing amounts of\n  alcohol. One afternoon C-bot calculates that Mia has consumed too much alcohol\n according to its programmed alcohol consumption safety profile. Mia repeatedly\n asksmore alcohol but to her frustration and surprise C-bot refuses, explaining\n that, in the interest of her safety, it has \"cut her off.\"<p>"
+    },
+
+    {
+      "tags": [
+        "flower",
+        "cars",
+        "google"
+      ],
+      "question_id": 2,
+      "title": "Ethical dillem",
+      "body": "Ethical dillema 111"
+    },
+    {
+      "tags": [
+        "keep",
+        "damn",
+        "google"
+      ],
+      "question_id": 3,
+      "title": "Ethical sadasdsadsa",
+      "body": "Ethical dillema 111"
+    }
+  ]
+}
